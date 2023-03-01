@@ -6,7 +6,7 @@ The application is a bookshelf app that allows you to select and categorize book
 
 ## Installation
 
-- Clone the repo
+- Clone the repository
 - install all project dependencies with `npm install`
 - start the development server with `npm start`
 
