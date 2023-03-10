@@ -31,7 +31,6 @@ The application is a bookshelf app that allows you to select and categorize book
         ├── BookShelf.js
         ├── SearchBooks.js
         ├── ShelfChanger.js
-        ├── ShelfChanger.js
     ├── icons # Helpful images for your app. Use at your discretion.
     │   ├── add.svg
     │   ├── arrow-back.svg
